@@ -3,9 +3,11 @@
     "name": "ParkingSpotReserve",
     "slug": "ParkingSpotReserve",
     "version": "1.0.0",
+    "sdkVersion": "54.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "entryPoint": "index.ts",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
